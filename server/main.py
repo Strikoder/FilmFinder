@@ -10,7 +10,7 @@ movies_list = pickled_df['title'].values
 
 
 def fetch_poster(movie_id):
-    api_key = "37719082210eb8bdf4655fdb15575754"
+    api_key = "Your API key"
     url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}"
     request = requests.get(url)
     data = request.json()
