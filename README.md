@@ -24,7 +24,8 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
 
 ## Website Interface
 The website features a simple and intuitive interface that allows users to select a film and receive recommendations based on their preferences. The results are displayed in a clear and organized way!
-[result1](readme.jpg)
+
+![result](https://github.com/Strikoder/FilmRecommender/blob/main/readme.jpg?raw=true)
 
 
 # Conclusion
